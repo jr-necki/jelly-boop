@@ -1,7 +1,7 @@
 ### Hi there 👋
 [![jelly-boop's GitHub stats](https://github-readme-stats.vercel.app/api?username=jelly-boop)](https://github.com/anuraghazra/github-readme-stats)
 
-<h3 align="center">⚔STACK⚔</h3>
+<h3>⚔STACK⚔</h3>
 
 <h4>FRONTEND</h4>
 <p>
