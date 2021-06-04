@@ -24,7 +24,7 @@
   <img src="https://img.shields.io/badge/Microsoft_Access-A4373A?style=flat&logo=Microsoft-Access&logoColor=white"/></a>
 </p>
  
-<h4>Etc</h4>
+<h4>ETC</h4>
 <p>
   <img alt="Jira" src="https://img.shields.io/badge/Jira_Software-0052CC?style=flat&logo=Jira-Software&logoColor=white"/>
   <img alt="git" src="https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white" />
