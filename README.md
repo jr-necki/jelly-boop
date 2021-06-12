@@ -5,7 +5,7 @@
 [![jelly-boop's github stats](https://github-readme-stats.vercel.app/api?username=jelly-boop&count_private=true&show_icons=true&theme=prussian&hide_border=true&include_all_commits=1)](https://github.com/jelly-boop/github-readme-stats)
 🛰
 <h3>✨STACK✨</h3>
--_-
+-_-!!
 <h4>FRONTEND</h4>
 <p>
   <img alt="html5" src="https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white" />
