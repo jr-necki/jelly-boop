@@ -1,13 +1,8 @@
-### 🌏☆*: .｡.✨ ..🛸｡.:*☆🐱‍🚀
 
-
-🐱‍🏍
-[![jelly-boop's github stats](https://github-readme-stats.vercel.app/api?username=jelly-boop&count_private=true&show_icons=true&theme=prussian&hide_border=true&include_all_commits=1)](https://github.com/jelly-boop/github-readme-stats)
-🛰
 <h3>✨STACK✨</h3>
 <h4>FRONTEND</h4>
 <p>
-  <img alt="html5" src="https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white" />
+  <img alt="html5"  src="https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white"/>
   <img alt="CSS3" src="https://img.shields.io/badge/-CSS3-1572B6?logo=CSS3&logoColor=white">
   <img alt="javascript" src="https://img.shields.io/badge/-JavaScript-F0DB4F?logo=javascript&logoColor=white" />
   <img alt="React" src="https://img.shields.io/badge/-React-45b8d8?logo=react&logoColor=white" />
@@ -30,6 +25,10 @@
   <img alt="git" src="https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white" />
   <img src="https://img.shields.io/badge/R-276DC3?style=flat&logo=R&logoColor=white"/></a>
 </p>
+
+[![jelly-boop's github stats](https://github-readme-stats.vercel.app/api?username=jelly-boop&count_private=true&show_icons=true&theme=prussian&hide_border=true&include_all_commits=1)](https://github.com/jelly-boop/github-readme-stats)
+
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=jelly_boop)](https://solved.ac/jelly_boop/)
 <!--
 **jelly-boop/jelly-boop** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
