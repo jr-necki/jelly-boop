@@ -2,28 +2,32 @@
 <h3>✨STACK✨</h3>
 <h4>FRONTEND</h4>
 <p>
-  <img alt="html5"  src="https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white"/>
-  <img alt="CSS3" src="https://img.shields.io/badge/-CSS3-1572B6?logo=CSS3&logoColor=white">
-  <img alt="javascript" src="https://img.shields.io/badge/-JavaScript-F0DB4F?logo=javascript&logoColor=white" />
-  <img alt="React" src="https://img.shields.io/badge/-React-45b8d8?logo=react&logoColor=white" />
+  <img alt="html5" src ="https://img.shields.io/badge/html5-E34F26.svg?&style=for-the-badge&logo=HTML5&logoColor=white"/>
+  <img alt="CSS3" src ="https://img.shields.io/badge/CSS3-1572B6.svg?&style=for-the-badge&logo=CSS3&logoColor=white"/>
+  <img alt="javascript" src ="https://img.shields.io/badge/javascript-F0DB4F.svg?&style=for-the-badge&logo=JavaScript&logoColor=white"/>
+  <img alt="React" src ="https://img.shields.io/badge/React-45b8d8.svg?&style=for-the-badge&logo=React&logoColor=white"/>
+  <img alt="Sass" src ="https://img.shields.io/badge/Sass-CC6699.svg?&style=for-the-badge&logo=Sass&logoColor=white"/>
+  <img alt="Bootstrap" src ="https://img.shields.io/badge/Bootstrap-7952B3.svg?&style=for-the-badge&logo=Bootstrap&logoColor=white"/>
 </p>
 
 <h4>BACKEND</h4>
 <p>
-  <img alt="java" src="https://img.shields.io/badge/java-%23ED8B00.svg?&logo=java&logoColor=white"/>
+ <img alt="Java" src ="https://img.shields.io/badge/Java-3776AB.svg?&style=for-the-badge&logo=Java&logoColor=white"/>
+ <img alt="NodeJS" src ="https://img.shields.io/badge/Node.js-339933.svg?&style=for-the-badge&logo=Node.js&logoColor=white"/>
 </p>
  
 <h4>DATABASE</h4>
 <p>
-  <img alt="MySql" src="https://img.shields.io/badge/mysql-%2300f.svg?&&logo=mysql&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Microsoft_Access-A4373A?style=flat&logo=Microsoft-Access&logoColor=white"/></a>
+  <img alt="MySQL" src ="https://img.shields.io/badge/MySQL-4479A1.svg?&style=for-the-badge&logo=MySQL&logoColor=white"/>
+  <img alt="Microsoft Access" src ="https://img.shields.io/badge/MicrosoftAccess-A4373A.svg?&style=for-the-badge&logo=MicrosoftAccess&logoColor=white"/>
 </p>
  
 <h4>ETC</h4>
 <p>
-  <img alt="Jira" src="https://img.shields.io/badge/Jira_Software-0052CC?style=flat&logo=Jira-Software&logoColor=white"/>
-  <img alt="git" src="https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/R-276DC3?style=flat&logo=R&logoColor=white"/></a>
+  <img alt="Git" src ="https://img.shields.io/badge/Git-F05032.svg?&style=for-the-badge&logo=Git&logoColor=white"/>
+  <img alt="GitHub" src ="https://img.shields.io/badge/GitHub-181717.svg?&style=for-the-badge&logo=GitHub&logoColor=white"/>
+  <img alt="JiraSoftware" src ="https://img.shields.io/badge/Jira Software-0052CC.svg?&style=for-the-badge&logo=JiraSoftware&logoColor=white"/>
+  <img alt="R" src ="https://img.shields.io/badge/R-276DC3.svg?&style=for-the-badge&logo=R&logoColor=white"/>
 </p>
 
 [![jelly-boop's github stats](https://github-readme-stats.vercel.app/api?username=jelly-boop&count_private=true&show_icons=true&theme=prussian&hide_border=true&include_all_commits=1)](https://github.com/jelly-boop/github-readme-stats)
