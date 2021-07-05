@@ -13,7 +13,6 @@
 <h4>BACKEND</h4>
 <p>
  <img alt="Java" src ="https://img.shields.io/badge/Java-3776AB.svg?&style=for-the-badge&logo=Java&logoColor=white"/>
- <img alt="NodeJS" src ="https://img.shields.io/badge/Node.js-339933.svg?&style=for-the-badge&logo=Node.js&logoColor=white"/>
 </p>
  
 <h4>DATABASE</h4>
