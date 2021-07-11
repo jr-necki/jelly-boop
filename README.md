@@ -33,6 +33,7 @@
 [![jelly-boop's github stats](https://github-readme-stats.vercel.app/api?username=jelly-boop&count_private=true&show_icons=true&theme=prussian&hide_border=true&include_all_commits=1)](https://github.com/jelly-boop/github-readme-stats)
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=jelly_boop)](https://solved.ac/jelly_boop/)
+
 <!--
 **jelly-boop/jelly-boop** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
