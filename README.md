@@ -9,6 +9,7 @@
   <img alt="Redux" src ="https://img.shields.io/badge/Redux-764ABC.svg?&style=for-the-badge&logo=Redux&logoColor=white"/>
   <img alt="Sass" src ="https://img.shields.io/badge/Sass-CC6699.svg?&style=for-the-badge&logo=Sass&logoColor=white"/>
   <img alt="Bootstrap" src ="https://img.shields.io/badge/Bootstrap-7952B3.svg?&style=for-the-badge&logo=Bootstrap&logoColor=white"/>
+  <img alt="Pug" src ="https://img.shields.io/badge/Pug-A86454.svg?&style=for-the-badge&logo=Pug&logoColor=white"/>
 </p>
 
 <h4>BACKEND</h4>
