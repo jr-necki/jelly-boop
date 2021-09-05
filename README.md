@@ -16,7 +16,6 @@
 <p>
  <img alt="Java" src ="https://img.shields.io/badge/Java-3776AB.svg?&style=for-the-badge&logo=Java&logoColor=white"/>
  <img alt="firebase" src ="https://img.shields.io/badge/firebase-FFCA28.svg?&style=for-the-badge&logo=firebase&logoColor=white"/>
- <img alt="Node.js" src ="https://img.shields.io/badge/Node.js-339933.svg?&style=for-the-badge&logo=Node.js&logoColor=white"/>
 </p>
  
 <h4>DATABASE</h4>
