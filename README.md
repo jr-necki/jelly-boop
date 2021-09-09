@@ -1,4 +1,4 @@
-[![jelly-boop's github stats](https://github-readme-stats.vercel.app/api?username=jelly-boop&count_private=true&show_icons=true&theme=prussian&hide_border=true&include_all_commits=1)](https://github.com/jelly-boop/github-readme-stats) 
+
 <h3>✨STACK✨</h3>
 <h4>FRONTEND</h4>
 <p>
