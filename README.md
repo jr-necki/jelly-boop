@@ -1,5 +1,5 @@
 
-<h3>✨STACK✨</h3>
+<h3>🚀STACK🚀</h3>
 <h4>FRONTEND</h4>
 <p>
   <img alt="html5" src ="https://img.shields.io/badge/html5-E34F26.svg?&style=for-the-badge&logo=HTML5&logoColor=white"/>
@@ -34,7 +34,6 @@
 </p>
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=jelly_boop)](https://solved.ac/jelly_boop/)
 
-......................................................................................
 <!--
 **jelly-boop/jelly-boop** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
