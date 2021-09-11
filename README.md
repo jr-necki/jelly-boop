@@ -32,7 +32,7 @@
   <img alt="R" src ="https://img.shields.io/badge/R-276DC3.svg?&style=for-the-badge&logo=R&logoColor=white"/>
   <img alt="Babel" src ="https://img.shields.io/badge/Babel-F9DC3E.svg?&style=for-the-badge&logo=Babel&logoColor=white"/>
 </p>
-
+......................................................................................
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=jelly_boop)](https://solved.ac/jelly_boop/)
 <!--
 **jelly-boop/jelly-boop** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
