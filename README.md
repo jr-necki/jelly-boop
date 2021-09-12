@@ -1,5 +1,5 @@
 
-<h3>🚀STACK🚀</h3>
+<h3>✨STACK✨</h3>
 <h4>FRONTEND</h4>
 <p>
   <img alt="html5" src ="https://img.shields.io/badge/html5-E34F26.svg?&style=for-the-badge&logo=HTML5&logoColor=white"/>
@@ -11,7 +11,6 @@
   <img alt="Bootstrap" src ="https://img.shields.io/badge/Bootstrap-7952B3.svg?&style=for-the-badge&logo=Bootstrap&logoColor=white"/>
   <img alt="Pug" src ="https://img.shields.io/badge/Pug-A86454.svg?&style=for-the-badge&logo=Pug&logoColor=white"/>
 </p>
-
 <h4>BACKEND</h4>
 <p>
  <img alt="Java" src ="https://img.shields.io/badge/Java-3776AB.svg?&style=for-the-badge&logo=Java&logoColor=white"/>
@@ -32,7 +31,6 @@
   <img alt="R" src ="https://img.shields.io/badge/R-276DC3.svg?&style=for-the-badge&logo=R&logoColor=white"/>
   <img alt="Babel" src ="https://img.shields.io/badge/Babel-F9DC3E.svg?&style=for-the-badge&logo=Babel&logoColor=white"/>
 </p>
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=jelly_boop)](https://solved.ac/jelly_boop/)
 
 <!--
 **jelly-boop/jelly-boop** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
