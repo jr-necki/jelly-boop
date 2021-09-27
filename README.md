@@ -21,7 +21,10 @@
   <img alt="MySQL" src ="https://img.shields.io/badge/MySQL-4479A1.svg?&style=for-the-badge&logo=MySQL&logoColor=white"/>
   <img alt="Microsoft Access" src ="https://img.shields.io/badge/MicrosoftAccess-A4373A.svg?&style=for-the-badge&logo=MicrosoftAccess&logoColor=white"/>
 </p>
- 
+<h4>ANDROID</h4>
+<p>
+   <img alt="Kotlin" src ="https://img.shields.io/badge/Kotlin-7F52FF.svg?&style=for-the-badge&logo=Kotlin&logoColor=white"/>
+</p>
 <h4>ETC</h4>
 <p>
   <img alt="Git" src ="https://img.shields.io/badge/Git-F05032.svg?&style=for-the-badge&logo=Git&logoColor=white"/>
