@@ -26,6 +26,8 @@
 <p>
    <img alt="Kotlin" src ="https://img.shields.io/badge/Kotlin-7F52FF.svg?&style=for-the-badge&logo=Kotlin&logoColor=white"/>
 </p>
+<h4>SECURITY</h4>
+👨‍💻
 <h4>ETC</h4>
 <p>
   <img alt="Git" src ="https://img.shields.io/badge/Git-F05032.svg?&style=for-the-badge&logo=Git&logoColor=white"/>
@@ -34,7 +36,7 @@
   <img alt="R" src ="https://img.shields.io/badge/R-276DC3.svg?&style=for-the-badge&logo=R&logoColor=white"/>
   <img alt="Babel" src ="https://img.shields.io/badge/Babel-F9DC3E.svg?&style=for-the-badge&logo=Babel&logoColor=white"/>
 </p>
-sss
+
 <!--
 **jelly-boop/jelly-boop** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
